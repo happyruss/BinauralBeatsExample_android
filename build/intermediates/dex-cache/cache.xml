@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mrrussell/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_f4afabb76ce60786d0dc4227816541f79c4e5fa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fa6cc4108a406d4ecc23ce202e9a3db26a1703e9">
+        <dex dex="/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5b77c9ceb0e2b7b94bffdd5bcef6e210eeff9da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="909ed274524dd39396c07a3f0d3a1962fcb06b3d">
+        <dex dex="/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4eabe499af406b4e3bbcec02c916f8fd0dc45b29/classes.dex" />
+    </item>
+
+</items>

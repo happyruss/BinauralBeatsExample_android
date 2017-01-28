@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Jan 28 13:57:57 CST 2017
+2.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/button_custom.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/refreshfull.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcherdefault.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/raw/pinkwave.wav
+5.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/play.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/refresh.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/layout/main_activity.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/stop.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

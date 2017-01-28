@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Binaural Beats Sample App</string>
+    <string name="beat_hint">Enter Beat Frequency</string>
+    <string name="beat_label">Beat Frequency</string>
+    <string name="binaural_radio">Binaural Beats</string>
+    <string name="carrier_hint">Enter Carrier Frequency</string>
+    <string name="carrier_label">Carrier Frequency</string>
+    <string name="gmt">Guided Meditation Treks</string>
+    <string name="isochronic_radio">Isochronic Pulses</string>
+    <string name="not_applicable">n/a</string>
+    <string name="url">http://www.guidedmeditationtreks.com/binaural.html</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

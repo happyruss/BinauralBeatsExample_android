@@ -1,0 +1,7 @@
+#Sat Jan 28 13:58:03 CST 2017
+base.0=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5b77c9ceb0e2b7b94bffdd5bcef6e210eeff9da
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4eabe499af406b4e3bbcec02c916f8fd0dc45b29/classes.dex
+base.1=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4eabe499af406b4e3bbcec02c916f8fd0dc45b29
+file.0=/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5b77c9ceb0e2b7b94bffdd5bcef6e210eeff9da/classes.dex

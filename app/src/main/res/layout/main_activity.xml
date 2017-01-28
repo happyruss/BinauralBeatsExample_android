@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <TextView
+        android:id="@+id/gmtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gmt"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center_horizontal"
+        android:soundEffectsEnabled="false"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        >
+    <RadioGroup
+            android:id="@+id/radioBeatType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:soundEffectsEnabled="false"
+            >
+
+            <RadioButton
+                android:id="@+id/radioBinaural"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/binaural_radio"
+                android:soundEffectsEnabled="false"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/radioIsochronic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:soundEffectsEnabled="false"
+                android:text="@string/isochronic_radio" />
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.33">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <EditText
+                    android:id="@+id/etCarrierFrequency"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="@string/carrier_hint"
+                    android:text="200"
+                    android:singleLine="true"
+                    android:inputType="numberDecimal"
+                    android:soundEffectsEnabled="false"
+                    android:gravity="center">
+                </EditText>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/carrier_label"
+                    android:gravity="center"/>
+                <TextView
+                    android:id="@+id/tvCarrierFrequency"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/not_applicable"
+                    android:gravity="center"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <ToggleButton
+            android:id="@+id/btnPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textOn=""
+            android:textOff=""
+            android:onClick="clickPlay"
+            android:background="@drawable/button_custom"
+            android:soundEffectsEnabled="false"
+            android:gravity="center"
+            />
+
+        <RelativeLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.33">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+            <EditText
+                android:id="@+id/etBeatFrequency"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/beat_hint"
+                android:text="8"
+                android:singleLine="true"
+                android:inputType="numberDecimal"
+                android:soundEffectsEnabled="false"
+                android:gravity="center">
+            </EditText>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/beat_label"
+                android:gravity="center"/>
+            <TextView
+                android:id="@+id/tvBeatFrequency"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/not_applicable"
+                android:gravity="center"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

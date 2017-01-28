@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcherdefault.png",
+        "source": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/src/main/res/drawable-xxhdpi/ic_launcherdefault.png"
+    },
+    {
+        "merged": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/stop.png",
+        "source": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/src/main/res/drawable-xxhdpi/stop.png"
+    },
+    {
+        "merged": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/play.png",
+        "source": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/src/main/res/drawable-xxhdpi/play.png"
+    },
+    {
+        "merged": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/refreshfull.png",
+        "source": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/src/main/res/drawable-xxhdpi/refreshfull.png"
+    },
+    {
+        "merged": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/refresh.png",
+        "source": "/Users/mrrussell/Documents/GuidedMeds/BinauralBeatsExample_android/app/src/main/res/drawable-xxhdpi/refresh.png"
+    }
+]

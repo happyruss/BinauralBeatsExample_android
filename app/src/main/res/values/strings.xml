@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="gmt">Guided Meditation Treks</string>
+    <string name="url">http://www.guidedmeditationtreks.com/binaural.html</string>
+    <string name="app_name">Binaural Beats Sample App</string>
+    <string name="carrier_label">Carrier Frequency</string>
+    <string name="beat_label">Beat Frequency</string>
+    <string name="carrier_hint">Enter Carrier Frequency</string>
+    <string name="beat_hint">Enter Beat Frequency</string>
+    <string name="binaural_radio">Binaural Beats</string>
+    <string name="isochronic_radio">Isochronic Pulses</string>
+    <string name="not_applicable">n/a</string>
+
+</resources>
