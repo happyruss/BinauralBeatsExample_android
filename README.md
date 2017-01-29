@@ -10,6 +10,9 @@ for binaural beats.
 This sample app is a cut-down version of that, 
 which includes the core engine to create binaural beats.
 
+Some background on the algorithms can be found here
+http://www.gunkyfunky.com/blog/open-source-binaural-beats
+
 The production app can be found on the Google Play store at
 https://play.google.com/store/apps/details?id=com.guidedmeditationtreks.binaural
 
